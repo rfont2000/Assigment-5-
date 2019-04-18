@@ -1,8 +1,7 @@
-// Roberto Font && kalani Kawaguchi
 /**
  * CS312 Assignment 5.
  * 
- * On my honor, Roberto Font && Kalani Kawaguchi, this programming assignment is my own work and I have
+ * On my honor, < NAME >, this programming assignment is my own work and I have
  * not shared my solution with any other student in the class.
  *
  * A program to play calculate the readability of text using the Flesch Reading Ease Test.
